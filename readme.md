@@ -24,6 +24,7 @@ An interactive Streamlit app for analyzing **Zambia's PAYE tax system** and **mi
 - Interactive slider to adjust **copper production**.
 
 ---
+![alt text](app.png)
 
 ## Installation
 
